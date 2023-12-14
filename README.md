@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://pmigix.github.io/four-card-feature
+- Live Site URL: https://pmigix.github.io/four-card-feature/dist/index.html
 
 ## Author
 
